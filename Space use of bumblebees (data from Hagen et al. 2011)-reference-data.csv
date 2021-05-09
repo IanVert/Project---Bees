@@ -1,0 +1,9 @@
+tag-id,animal-id,animal-taxon,animal-comments,animal-life-stage,animal-sex,attachment-type,manipulation-type,tag-manufacturer-name,tag-mass,tag-model,tag-readout-method
+001,001,Bombus hortorum,queen,young,f,glue,none,Advanced Telemetry Systems,0.2,modified Series A2405,other-wireless
+002,002,Bombus terrestris,worker,,f,glue,none,Advanced Telemetry Systems,0.2,modified Series A2405,other-wireless
+003,003,Bombus ruderatus,worker; intertegular size 5.625 mm,,f,glue,none,Advanced Telemetry Systems,0.2,modified Series A2405,other-wireless
+004,004,Bombus hortorum,queen,young,f,glue,none,Advanced Telemetry Systems,0.2,modified Series A2405,other-wireless
+005,005,Bombus terrestris,worker; intertegular size 5.125 mm,,f,glue,none,Advanced Telemetry Systems,0.2,modified Series A2405,other-wireless
+006,006,Bombus terrestris,worker; intertegular size 4.625 mm,,f,glue,none,Advanced Telemetry Systems,0.2,modified Series A2405,other-wireless
+007,007,Bombus hortorum,queen; intertegular size 6.125 mm,young,f,glue,none,Advanced Telemetry Systems,0.2,modified Series A2405,other-wireless
+008,008,Bombus terrestris,worker,,f,glue,none,Advanced Telemetry Systems,0.2,modified Series A2405,other-wireless
